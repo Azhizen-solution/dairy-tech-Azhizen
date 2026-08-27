@@ -523,7 +523,7 @@ export const services: Service[] = [
     title: "Farm Infrastructure Setup",
     subtitle: "Building the Complete Dairy Farm House in Large Scale",
     category: "Diary Tech Service",
-    price: "₹8,00,000",
+    price: "Contact for Best Price",
     image: "/image-352.png",
     description: "Building The Complete Farm House In Large Scale with modern agricultural infrastructure",
     keyFeatures: [
@@ -558,7 +558,7 @@ export const services: Service[] = [
     title: "Farm Equipment Maintenance",
     subtitle: "Regular Maintenance & Cleaning of Farm Systems and Equipment",
     category: "Diary Tech Service",
-    price: "₹50,000",
+    price: "Contact for Best Price",
     image: "/image-351.png",
     description: "Professional Cleaning Services For Farm Houses ensuring optimal hygiene and health standards",
     keyFeatures: [
@@ -593,7 +593,7 @@ export const services: Service[] = [
     title: "Farm Operations Monitoring",
     subtitle: "Real-time Monitoring and Analytics Dashboard for Farm Performance",
     category: "Diary Tech Service",
-    price: "₹1,50,000",
+    price: "Contact for Best Price",
     image: "/image-353.png",
     description: "Regular Maintenance To Keep Farm Houses In Top Condition with preventive care approach",
     keyFeatures: [
@@ -628,7 +628,7 @@ export const services: Service[] = [
     title: "Farm Expansion Services",
     subtitle: "Scaling Your Farm Operations with Latest Automation Technology",
     category: "Diary Tech Service",
-    price: "₹5,00,000",
+    price: "Contact for Best Price",
     image: "/image-349.png",
     description: "Complete setup and installation of modern dairy farming infrastructure from ground zero",
     keyFeatures: [
@@ -665,7 +665,7 @@ export const services: Service[] = [
     title: "Livestock Purchase & Infrastructure",
     subtitle: "Expert breed selection, genetic quality assessment, and custom farm construction for optimal goat farming",
     category: "Goat Farm Service",
-    price: "₹3,50,000",
+    price: "Contact for Best Price",
     image: "/image-352.png",
     description: "Expert breed selection, genetic quality assessment, and custom farm construction for optimal goat farming",
     keyFeatures: [
@@ -680,7 +680,7 @@ export const services: Service[] = [
     title: "Farm Maintenance & Veterinary Support",
     subtitle: "Comprehensive health monitoring, preventive care planning, and emergency veterinary response",
     category: "Goat Farm Service",
-    price: "₹1,20,000",
+    price: "Contact for Best Price",
     image: "/image-351.png",
     description: "Comprehensive health monitoring, preventive care planning, and emergency veterinary response and herd health optimization",
     keyFeatures: [
@@ -695,7 +695,7 @@ export const services: Service[] = [
     title: "Automation Setup",
     subtitle: "Complete automated milking and feeding systems designed for efficient goat farm operations",
     category: "Goat Farm Service",
-    price: "₹4,00,000",
+    price: "Contact for Best Price",
     image: "/image-349.png",
     description: "Complete automated milking and feeding systems designed for efficient goat farm operations",
     keyFeatures: [
@@ -710,7 +710,7 @@ export const services: Service[] = [
     title: "Farm Expansion",
     subtitle: "Scale your goat farm operations with modular expansion and advanced automation technology",
     category: "Goat Farm Service",
-    price: "₹6,00,000",
+    price: "Contact for Best Price",
     image: "/image-353.png",
     description: "Scale your goat farm operations with modular expansion and advanced automation technology",
     keyFeatures: [
@@ -727,7 +727,7 @@ export const services: Service[] = [
     title: "Feed Automation",
     subtitle: "Precision automated feeding systems for optimal nutrition and reduced waste",
     category: "Poultry Farm Service",
-    price: "₹2,80,000",
+    price: "Contact for Best Price",
     image: "/image-352.png",
     description: "Precision automated feeding systems for optimal nutrition and reduced waste",
     keyFeatures: [
@@ -742,7 +742,7 @@ export const services: Service[] = [
     title: "Weather Monitoring",
     subtitle: "Real-time environmental monitoring for optimal bird health and productivity",
     category: "Poultry Farm Service",
-    price: "₹1,90,000",
+    price: "Contact for Best Price",
     image: "/image-351.png",
     description: "Real-time environmental monitoring for optimal bird health and productivity",
     keyFeatures: [
@@ -757,7 +757,7 @@ export const services: Service[] = [
     title: "Airborne Disease Prediction",
     subtitle: "Advanced real-time monitoring device to predict and prevent airborne disease outbreaks",
     category: "Poultry Farm Service",
-    price: "₹3,20,000",
+    price: "Contact for Best Price",
     image: "/image-349.png",
     description: "Advanced real-time monitoring device to predict and prevent airborne disease outbreaks",
     keyFeatures: [
@@ -772,7 +772,7 @@ export const services: Service[] = [
     title: "Egg Collection Automation",
     subtitle: "Automated egg collection, grading, and quality assurance system for maximum efficiency",
     category: "Poultry Farm Service",
-    price: "₹4,80,000",
+    price: "Contact for Best Price",
     image: "/image-353.png",
     description: "Automated egg collection, grading, and quality assurance system for maximum efficiency",
     keyFeatures: [

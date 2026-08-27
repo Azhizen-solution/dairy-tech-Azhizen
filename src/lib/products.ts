@@ -21,7 +21,7 @@ export const products: Product[] = [
     name: "2 Bucket Milking Machine",
     subtitle: "Belt Drive Model | Dual Bucket Capacity",
     category: "Milking Equipment",
-    price: "$850",
+    price: "Contact for Best Price",
     image: "2bucketmilkingmachine-removebg-preview.png",
     description: "High-efficiency dual-bucket system for fast, hygienic milking in medium to large dairies. Quiet belt-driven motor ensures stable vacuum flow and cow comfort.",
     keyFeatures: [
@@ -51,7 +51,7 @@ export const products: Product[] = [
     name: "Chaff Cutter",
     subtitle: "Heavy Duty | High-Speed Fodder Processor",
     category: "Fodder Processing",
-    price: "$499",
+    price: "Contact for Best Price",
     image: "ChaffCutter.png",
     description: "High-speed cutter for green and dry fodder to improve livestock digestion and feed intake. Reduces feed wastage by up to 30% with hardened steel blades.",
     keyFeatures: [
@@ -81,7 +81,7 @@ export const products: Product[] = [
     name: "Cow Lifter",
     subtitle: "Reinforced Steel | Emergency Veterinary Tool",
     category: "Veterinary Tools",
-    price: "$195",
+    price: "Contact for Best Price",
     image: "CowLifter.png",
     description: "Emergency hip-support lifter providing safe assistance for downer or injured cattle. Features padded clamps to prevent nerve damage and trauma.",
     keyFeatures: [
@@ -111,7 +111,7 @@ export const products: Product[] = [
     name: "Grass Cutter",
     subtitle: "Precision Blade | Land Management Series",
     category: "Land Management",
-    price: "$280",
+    price: "Contact for Best Price",
     image: "GrassCutter.png",
     description: "Ergonomic clearing tool for dense brush, weeds, and pasture grass. Features low-vibration technology and anti-slip handles for long hours.",
     keyFeatures: [
@@ -141,7 +141,7 @@ export const products: Product[] = [
     name: "Milk Cream Separator",
     subtitle: "Electric Driven | High-Efficiency Centrifuge",
     category: "Dairy Processing",
-    price: "$350",
+    price: "Contact for Best Price",
     image: "/MilkCreamSeparato.png",
     description: "High-efficiency electric centrifugal machine that quickly separates cream from raw whole milk. Features food-grade stainless steel parts for easy cleaning.",
     keyFeatures: [
@@ -171,7 +171,7 @@ export const products: Product[] = [
     name: "Digital Weighing Scale",
     subtitle: "High Precision | Industrial Grade Platform",
     category: "Measurement Tools",
-    price: "$120",
+    price: "Contact for Best Price",
     image: "DigitalWeighingScale.png",
     description: "Precision digital platform scale built for rugged farm environments. Features a bright LED display and rust-resistant stainless steel top plate.",
     keyFeatures: [
@@ -201,7 +201,7 @@ export const products: Product[] = [
     name: "Cow Dung Scrapper",
     subtitle: "Automated Cleaning | Farm Hygiene Solution",
     category: "Farm Hygiene",
-    price: "$1,200",
+    price: "Contact for Best Price",
     image: "CowDungScrapper.png",
     description: "Automated cleaning system that continuously removes waste from barn gutters. Improves barn hygiene, reduces manual labor, and protects hoof health.",
     keyFeatures: [
@@ -231,7 +231,7 @@ export const products: Product[] = [
     name: "Motor",
     subtitle: "Heavy-Duty Induction | Multi-Purpose Power",
     category: "Power Units",
-    price: "$299",
+    price: "Contact for Best Price",
     image: "/motor-1.png",
     description: "Heavy-duty AC induction motor built for continuous agricultural operations. Ideal drive power for milking pumps, chaff cutters, and water systems.",
     keyFeatures: [
@@ -261,7 +261,7 @@ export const products: Product[] = [
     name: "Milk Tank",
     subtitle: "Cooling & Storage | Grade-A Stainless Steel",
     category: "Storage & Cooling",
-    price: "$1,500",
+    price: "Contact for Best Price",
     image: "MilkTanks.png",
     description: "Commercial insulated cooling tank that rapidly chills raw milk down to 4°C. Preserves fresh milk quality and prevents bacterial growth.",
     keyFeatures: [
