@@ -97,7 +97,7 @@ export const HeroSection = ({}: HeroSectionProps): JSX.Element => {
             "
           >
             <source
-              src="/hero-video.mp4"
+              src="/HERO-SECTION.mp4"
               type="video/mp4"
             />
           </video>
