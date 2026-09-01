@@ -2221,9 +2221,9 @@ const VideoPanel = ({ selectedCategory }: VideoPanelProps) => (
         <source
           src={
             selectedCategory === "Diary Tech Service"
-              ? "/cow.mp4"
+              ? "/COW-SC-COMPRESSED.mp4"
               : selectedCategory === "Goat Farm Service"
-              ? "/goat.mp4"
+              ? "/GOAT-SC-COMPRESSED.mp4"
               : selectedCategory === "Poultry Farm Service"
               ? "/cow-service.mp4"
               : "/waste-management.mp4"
